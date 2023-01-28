@@ -1,0 +1,8 @@
+#jekyll configuration 
+
+name: Scott's Website
+description: same same
+url: "https://xscoschx.github.io/ScottleRoux.github.io/"
+markdown: kramdown
+highlighter: rouge
+
